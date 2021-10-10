@@ -1,5 +1,5 @@
 <img align="right" alt="coding" width="350" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true">
-<h1 align="center">HI, I'm Mahabub Azam, </br> A Professional Web Application Developer</h1>
+<h1 align="center">HI, I'm Mahabub Azam, A Professional Web Application Developer</h1>
 
 <h3 align="left">I'm a MERN stack WEB DEVELOPER with having 1.5+ years of experience. I am working as a Freelance Full Stack web developer.</h3>
 
