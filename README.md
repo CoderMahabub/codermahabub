@@ -15,6 +15,7 @@
 - I'm a quick learner & I love to learn new 💻 **Technologies**.
 - I love working in **Visual Studio Code** .
 - I've a soft corner for 💻 **Wordpress** and I can do some help with wordpress too.
+</br>
 
 ### Connect with Me:
 
