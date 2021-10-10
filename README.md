@@ -1,9 +1,9 @@
 <img align="right" alt="coding" width="350" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true">
-<h1 align="center">HI, I Am Md. Mahabub Azam, A Professional Web Application Developer</h1>
+<h1 align="center">HI, I Am Mahabub Azam, </br> A Professional Web Application Developer</h1>
 
 <h3 align="left">I am a MERN stack WEB DEVELOPER with having 1.5+ years of experience. I am working as a Freelance Full Stack web developer.</h3>
 
-<p align="left"> <a href="https://twitter.com/md_rokibulhasan" target="blank"><img src="https://img.shields.io/twitter/follow/md_rokibulhasan?logo=twitter&style=for-the-badge" alt="md_rokibulhasan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mahabub_azam" target="blank"><img src="https://img.shields.io/twitter/follow/mahabub_azam?logo=twitter&style=for-the-badge" alt="mahabub_azam" /></a> </p>
 
 - 💬 Ask me about **HTML, CSS, BootStrap,Tailwind, JavaScript, React, Node**.
 
