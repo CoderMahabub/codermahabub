@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mahabub_azam" target="blank"><img src="https://img.shields.io/twitter/follow/mahabub_azam?logo=twitter&style=for-the-badge" alt="mahabub_azam" /></a> </p>
 
-- 💬 Ask me about **HTML, CSS, BootStrap,Tailwind, JavaScript, React, Node**.
+- 💬 Ask me about **HTML, CSS, BootStrap,Tailwind, JavaScript, React, Node, and WordPress**.
 
 - 💬 Mail me to reach **codermahabub@gmail.com**
 
