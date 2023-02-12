@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **HTML, CSS, BootStrap,Tailwind,Material UI, JavaScript, React, Node, and WordPress**.
 
-- 💬 Mail me to reach **codermahabub@gmail.com**
+- 💬 Mail me to reach **mahabubazam.me@gmail.com**
 
 - 📫 Visit My Portfolio **https://codermahabub.com**
 
