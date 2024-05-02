@@ -42,7 +42,9 @@
 <img align="left" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" alt="mongodb" width="26px" style="max-width:100%;">
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" />
-<img align="left" src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" alt="firebase" width="26px" data-canonical-src="https://cdn.worldvectorlogo.com/logos/firebase-2.svg" style="max-width:100%;">
+<img align="left" alt="GitHub" width="26px" src="https://cdn.worldvectorlogo.com/logos/firebase-2.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://cdn.worldvectorlogo.com/logos/mongoose.svg" />
+
 
 <img align="left" src="https://camo.githubusercontent.com/df12cb598044a3f38efc1f45e3580558c324cf8789b79487125044eeebcc4dee/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6865726f6b752f6865726f6b752d69636f6e2e737667" alt="heroku" width="26px" data-canonical-src="https://cdn.worldvectorlogo.com/logos/mongoose.svg" style="max-width:100%;">
 
