@@ -1,13 +1,13 @@
 <img align="right" alt="coding" width="350" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true">
 <h1 align="center">HI, I'm Mahabub Azam, A Professional Web Application Developer</h1>
 
-<h3 align="left">I'm a MERN stack WEB DEVELOPER with having 1.5+ years of experience. I'm working as a Freelance Full Stack web developer.</h3>
+<h3 align="left">I'm a MERN stack WEB DEVELOPER with having 1+ years of experience. I'm working as a Freelance Frontend web developer.</h3>
 
 <p align="left"> <a href="https://twitter.com/mahabub_azam" target="blank"><img src="https://img.shields.io/twitter/follow/mahabub_azam?logo=twitter&style=for-the-badge" alt="mahabub_azam" /></a> </p>
 
-- 💬 Ask me about **HTML, CSS, BootStrap,Tailwind,Material UI, JavaScript, React, Node, and WordPress**.
+- 💬 Ask me about **HTML, CSS, BootStrap, Tailwind CSS, Material UI, JavaScript, ReactJS, NextJS, NodeJS, ExpressJS, and WordPress**.
 
-- 💬 Mail me to reach **mahabubazam.me@gmail.com**
+- 💬 Mail me to reach **codermahabub@gmail.com**
 
 - 📫 Visit My Portfolio **https://codermahabub.com**
 
